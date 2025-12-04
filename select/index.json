@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マシュマロフロート",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-04T12:49:47.716432Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マシュマロフロート",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_マシュマロフロート_≠ME.txt"
+    }
+  ]
+}
